@@ -11,3 +11,7 @@ I'm currently on a learning path, I'll update the repo with the new projects as 
   The robot is in an open loop control, therby it is susceptible to errors in motion.
 
 #2 Odometry and pose estimation
+  In this project encoders are attached to the diff drive robot for measuring the wheel rotations
+  The wheel rotations can be used to determine the distance covered by the robot
+  calculations can be done to estimate the pose of the robot
+  Pose: [x_coordinate, y_coordinate, theta_orientation] can be calculated  using kinematic equations
