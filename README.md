@@ -17,7 +17,7 @@ I'm currently on a learning path, I'll update the repo with the new projects as 
   calculations can be done to estimate the pose of the robot
   Pose: [x_coordinate, y_coordinate, theta_orientation] can be calculated  using kinematic equations  
   
-# 3 Maze solver: Left wall following algorith
+# 3 Maze solver: Left wall following algorithm
   The best-known rule for traversing mazes is the wall follower, also known as either the 
   left-hand rule or the right-hand rule. If the maze is simply connected, that is, all its 
   walls are connected together or to the maze's outer boundary.
