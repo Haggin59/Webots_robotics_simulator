@@ -9,6 +9,7 @@ I'm currently on a learning path, I'll update the repo with the new projects as 
   The current controller code makes the robot to follow the path of a polygon with the user desired number of sides
   The code is written in Python
   The robot is in an open loop control, therby it is susceptible to errors in motion.
+  
    ![diff_drive](https://user-images.githubusercontent.com/72227384/198847227-b301a42a-f52a-48d6-a2f8-697166bba661.png)
 
 # 2 Odometry and pose estimation
@@ -21,5 +22,7 @@ I'm currently on a learning path, I'll update the repo with the new projects as 
   The best-known rule for traversing mazes is the wall follower, also known as either the 
   left-hand rule or the right-hand rule. If the maze is simply connected, that is, all its 
   walls are connected together or to the maze's outer boundary.
-  Here the robot E-puck is made to follow the wall on its left until it reaches the end.![wall_follower1](https://user-images.githubusercontent.com/72227384/198847048-ec7a3473-3c95-4053-a53d-e7f57bf08d0b.png)
+  Here the robot E-puck is made to follow the wall on its left until it reaches the end.
+  
+  ![wall_follower1](https://user-images.githubusercontent.com/72227384/198847048-ec7a3473-3c95-4053-a53d-e7f57bf08d0b.png)
 ![wall_follower2 png](https://user-images.githubusercontent.com/72227384/198847057-84495127-ffa3-46ad-a16e-4f2bb4ce27a1.png)
